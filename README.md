@@ -32,6 +32,6 @@ Clone the repo and start the server:
 
 ```bash
 git clone https://github.com/Sarangk2024/Taco-Recipe-.git
-cd Taco-Recipe-/Backend/JSON
+cd Taco-Recipe-
 npm install
 node index.js
